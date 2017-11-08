@@ -6,5 +6,6 @@
             "email": "derrick@dgrigg.com"
         }
     ],
+    "type":"library",
     "require": {}
 }
