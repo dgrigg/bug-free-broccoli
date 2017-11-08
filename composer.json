@@ -1,0 +1,10 @@
+{
+    "name": "derrick/bug-free-broccoli",
+    "authors": [
+        {
+            "name": "Derrick Grigg",
+            "email": "derrick@dgrigg.com"
+        }
+    ],
+    "require": {}
+}
